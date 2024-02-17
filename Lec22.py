@@ -14,5 +14,8 @@ plt.xlabel('$x$-axis')
 plt.ylabel('$y$-axis')
 plt.show()
 
+
+Output:
+https://github.com/rthakre57/Introduction-to-Python/issues/1#issue-2140057825
 Figure_1
 Figure_2
